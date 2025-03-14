@@ -36,6 +36,7 @@ src/
 │   │   ├── application.yml          # 多环境配置
 │   │   ├── admin/                   # Vue后台模板
 │   │   ├── front/                   # Layui前台模板
+```
 
 # 使用说明
 **推荐浏览器**：谷歌浏览器  
